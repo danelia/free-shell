@@ -1,0 +1,15 @@
+shell
+
+#Object files
+*.o
+
+#Output files
+*.out
+*.exe
+
+#txt files
+*.txt
+
+#testing files
+output
+tests
